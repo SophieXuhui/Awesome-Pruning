@@ -105,6 +105,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:--------|:--------:|:--------:|:--------:|
 | [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) | ICLR **(Best)** | `W` | [github](https://github.com/songhan/Deep-Compression-AlexNet)|
 | [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) | NIPS | `W` | [github](https://github.com/yiwenguo/Dynamic-Network-Surgery)|
+[Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures](https://arxiv.org/abs/1607.03250)
 
 ### 2015
 |  Title  | Venue  | Type | Code |
