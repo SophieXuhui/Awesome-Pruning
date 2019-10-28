@@ -97,6 +97,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |  [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)|ICCV|`F` | [github](https://github.com/Roll920/ThiNet)|
 |  [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168)|ICCV|`F` | [github](https://github.com/yihui-he/channel-pruning)|
 | [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519)|ICCV|`F` | [github](https://github.com/Eric-mingjie/network-slimming)|
+[An Entropy-based Pruning Method for CNN Compression](https://arxiv.org/pdf/1706.05791.pdf)
 
 
 ### 2016
