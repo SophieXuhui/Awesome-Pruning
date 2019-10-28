@@ -40,6 +40,12 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 
 |  Title  | Venue  | Type | Code |
 |:--------|:--------:|:--------:|:--------:|
+[Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/pdf/1905.01067.pdf) | Uber AI |
+
+
+
+|  Title  | Venue  | Type | Code |
+|:--------|:--------:|:--------:|:--------:|
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR **(Oral)** | `F` |[github](https://github.com/he-y/filter-pruning-geometric-median)|
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291) | CVPR | `F` | [github](https://github.com/ShaohuiLin/GAL)  |
 | [Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) | CVPR | `F` | [github](https://github.com/ShawnDing1994/Centripetal-SGD)|
